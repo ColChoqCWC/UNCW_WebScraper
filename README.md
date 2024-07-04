@@ -12,7 +12,4 @@
 - cvs
 - Beautifulsoup4
 - requests
-- re
-
-<p>Future Additions:</p>
-Currently we are planning on getting the scraper to grab the buiness owners name and email. 
+- re 
